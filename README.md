@@ -1,4 +1,4 @@
-# Analysis Portfolio
+# Data Analysis Portfolio
 
 Repository for Data Analysis projects.
 
